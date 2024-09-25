@@ -1,0 +1,82 @@
+.hero-container1 {
+  width: 100%;
+  height: 935px;
+  display: flex;
+  position: relative;
+  margin-top: 0px;
+  align-items: center;
+  margin-left: 0px;
+  padding-top: 0px;
+  margin-right: 0px;
+  padding-left: 0px;
+  margin-bottom: 0px;
+  padding-right: 0px;
+  flex-direction: row;
+  padding-bottom: 0px;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("https://play.teleporthq.io/static/svg/placeholders/no-image.svg");
+}
+.hero-container2 {
+  flex: 0 0 auto;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-self: center;
+  align-items: center;
+  flex-direction: column;
+}
+.hero-link {
+  align-self: center;
+  margin-top: var(--dl-space-space-twounits);
+  animation-name: flash;
+  animation-delay: 0s;
+  text-decoration: none;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+}
+.hero-text12 {
+  width: 1056px;
+  height: 149px;
+  display: inline-block;
+  font-size: 100px;
+  font-style: normal;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: rgba(10, 10, 10, 0.11);
+}
+.hero-text13 {
+  color: #ffffff;
+  font-size: 80px;
+  line-height: 1;
+}
+.hero-text14 {
+  color: #2beaf7;
+  font-size: 80px;
+  line-height: 1;
+}
+.hero-text15 {
+  color: #ffffff;
+  font-size: 80px;
+  font-family: "Inter";
+  line-height: 1;
+}
+.hero-text16 {
+  color: #2beaf7;
+  font-size: 80px;
+  line-height: 1;
+}
+.hero-text17 {
+  color: #ffffff;
+  font-size: 80px;
+  line-height: 1;
+}
+.hero-text19 {
+  display: inline-block;
+}

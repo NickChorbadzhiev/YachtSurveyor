@@ -1,0 +1,70 @@
+.proto-hero-container1 {
+  width: 100vw;
+  height: 50vw;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.proto-hero-container2 {
+  flex: 0 0 auto;
+  width: 80vw;
+  height: 48vw;
+  display: flex;
+  box-shadow: 5px 5px 10px 0px #d4d4d4;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  justify-content: center;
+  background-image: url("/me%20(1)-800h.jpg");
+}
+.proto-hero-link {
+  color: #ffffff;
+  align-self: center;
+  margin-top: var(--dl-space-space-halfunit);
+  animation-name: flash;
+  animation-delay: 0s;
+  text-decoration: none;
+  background-color: #000000;
+  animation-duration: 300ms;
+  animation-direction: normal;
+  animation-iteration-count: 1;
+  animation-timing-function: ease-in;
+}
+.proto-hero-text3 {
+  display: inline-block;
+  padding: var(--dl-space-space-oneandhalfunits);
+  font-size: 5vw;
+  box-shadow: rgba(0, 0, 0, 0.46) 5px 5px 10px 0px;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.proto-hero-text4 {
+  color: #ffffff;
+}
+.proto-hero-text5 {
+  color: #2beaf7;
+}
+.proto-hero-text7 {
+  color: #2beaf7;
+}
+.proto-hero-text8 {
+  color: #ffffff;
+}
+.proto-hero-text9 {
+  display: inline-block;
+}
+.proto-heroroot-class-name1 {
+  background-color: #fbfdfd;
+}
+@media(max-width: 991px) {
+  .proto-hero-container1 {
+    height: 50vw;
+  }
+}

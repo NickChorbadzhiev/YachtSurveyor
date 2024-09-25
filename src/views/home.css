@@ -1,0 +1,99 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.home-text10 {
+  display: inline-block;
+  padding: var(--dl-space-space-oneandhalfunits);
+  font-size: 5vw;
+  box-shadow: rgba(0, 0, 0, 0.46) 5px 5px 10px 0px;
+  margin-top: var(--dl-space-space-twounits);
+  text-align: center;
+  font-family: "Inter";
+  font-weight: 700;
+  line-height: 1.15;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.home-text11 {
+  color: #ffffff;
+}
+.home-text12 {
+  color: #2beaf7;
+}
+.home-text14 {
+  color: #2beaf7;
+}
+.home-text15 {
+  color: #ffffff;
+}
+.home-text16 {
+  display: inline-block;
+}
+.home-text17 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+}
+.home-text18 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+}
+.home-text19 {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+}
+.home-text22 {
+  color: #ffffff;
+  display: inline-block;
+}
+.home-text23 {
+  display: inline-block;
+  text-align: center;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text24 {
+  display: inline-block;
+  text-align: center;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text25 {
+  display: inline-block;
+  text-align: center;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text26 {
+  display: inline-block;
+  text-align: center;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text27 {
+  display: inline-block;
+  text-align: center;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text28 {
+  display: inline-block;
+  text-align: center;
+  padding-left: var(--dl-space-space-unit);
+  padding-right: var(--dl-space-space-unit);
+}
+.home-text29 {
+  display: inline-block;
+}
+.home-text30 {
+  display: inline-block;
+}
+.home-text34 {
+  display: inline-block;
+}
+.home-text35 {
+  display: inline-block;
+}

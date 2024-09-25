@@ -1,0 +1,217 @@
+.slideshow-container {
+  width: 100%;
+  height: auto;
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.slideshow-slide1 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.slideshow-image1 {
+  width: 100%;
+  max-height: 50vh;
+  object-fit: cover;
+}
+.slideshow-left-button1 {
+  flex: 0 0 auto;
+  left: 3%;
+  right: 50px;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-left-button1:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-right-button1 {
+  flex: 0 0 auto;
+  right: 3%;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-right-button1:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-slide2 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.slideshow-image2 {
+  width: 100%;
+  max-height: 50vh;
+  object-fit: cover;
+}
+.slideshow-left-button2 {
+  flex: 0 0 auto;
+  left: 3%;
+  right: 50px;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-left-button2:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-right-button2 {
+  flex: 0 0 auto;
+  right: 3%;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-right-button2:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-slide3 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.slideshow-image3 {
+  width: 100%;
+  max-height: 50vh;
+  object-fit: cover;
+}
+.slideshow-left-button3 {
+  flex: 0 0 auto;
+  left: 3%;
+  right: 50px;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-left-button3:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-right-button3 {
+  flex: 0 0 auto;
+  right: 3%;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-right-button3:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-slide4 {
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+}
+.slideshow-image4 {
+  width: 100%;
+  max-height: 50vh;
+  object-fit: cover;
+}
+.slideshow-left-button4 {
+  flex: 0 0 auto;
+  left: 3%;
+  right: 50px;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-left-button4:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
+.slideshow-right-button4 {
+  flex: 0 0 auto;
+  right: 3%;
+  width: 50px;
+  bottom: 225px;
+  cursor: pointer;
+  height: 50px;
+  display: flex;
+  position: absolute;
+  transition: 0.3s;
+  align-items: center;
+  border-radius: var(--dl-radius-radius-round);
+  flex-direction: column;
+  justify-content: center;
+  background-color: rgba(2, 2, 2, 0.19);
+}
+.slideshow-right-button4:hover {
+  background-color: rgba(2, 2, 2, 0.45);
+}
